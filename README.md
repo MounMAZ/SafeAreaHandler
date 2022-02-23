@@ -3,7 +3,9 @@
 
 # How to use? 
 -Put the UI that needs special handling under a Panel or different panels.
+
 -Drag and drop SafeAreaHandler.cs into one of your gameobjects and then add the panels to the list of **rectTransforms**. 
+
 -Enjoy the panles stretched according to the safe area of the device. 
 
 # Demo
